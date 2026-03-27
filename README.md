@@ -19,7 +19,7 @@ Running decentralized network nodes often suffers from memory leaks, browser cra
 
 ### Quick Start (Recommended)
 
-[📥 **Download Latest Release (v0.1-Beta)**](https://github.com/connie/Veloce-Node-Mate/releases)
+[📥 **Download Latest Release (v0.2)**](https://github.com/connie/Veloce-Node-Mate/releases)
 
 1. Download the standalone `Veloce_Node-Mate.exe` from the Releases page.
 2. Run the executable (no installation required).
